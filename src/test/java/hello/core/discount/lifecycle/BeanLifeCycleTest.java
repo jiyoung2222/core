@@ -1,4 +1,4 @@
-package hello.core.lifecycle;
+package hello.core.discount.lifecycle;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.context.ConfigurableApplicationContext;
